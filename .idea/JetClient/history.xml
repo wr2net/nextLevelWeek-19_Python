@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="History">
+    <option name="requestHistoryStates">
+      <list>
+        <requestHistoryState>
+          <option name="dateTime" value="1739889729991" />
+          <option name="id" value="fa0d5a33-b91a-4335-ad03-582ffa151067" />
+          <option name="request">
+            <requestState>
+              <option name="id" value="a84a33a7-db21-43e8-84fa-32e76b29eab3" />
+              <option name="method" value="POST" />
+              <option name="name" value="Create" />
+              <option name="sortWeight" value="1000000" />
+              <option name="url" value="{{server}}/event" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="ewogICJlc3RvdSI6ICJhcXVpIgp9Cg==" />
+              <option name="bodyString" value="{&#10;  &quot;estou&quot;: &quot;aqui&quot;&#10;}" />
+              <option name="code" value="201" />
+              <option name="connectionEstablishingTime" value="119" />
+              <option name="contentType" value="application/json" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Length" />
+                    <option name="value" value="22" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Server" />
+                    <option name="value" value="Werkzeug/2.0.3 Python/3.6.15" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Tue, 18 Feb 2025 14:42:09 GMT" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="fa0d5a33-b91a-4335-ad03-582ffa151067" />
+              <option name="message" value="Created" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="{&#10;  &quot;estou&quot;: &quot;aqui&quot;&#10;}&#10;" />
+              <option name="size" value="22" />
+              <option name="time" value="134" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="3f8ec63c-6395-4d60-bada-a50ff05e5841" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1739897429261" />
+          <option name="id" value="9346f232-09fd-4b0f-a0bc-22817d9c740d" />
+          <option name="request">
+            <requestState>
+              <option name="id" value="a84a33a7-db21-43e8-84fa-32e76b29eab3" />
+              <option name="method" value="POST" />
+              <option name="name" value="Create" />
+              <option name="sortWeight" value="1000000" />
+              <option name="url" value="{{server}}/event" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="ewogICJlc3RvdSI6ICJhcXVpIgp9Cg==" />
+              <option name="bodyString" value="{&#10;  &quot;estou&quot;: &quot;aqui&quot;&#10;}" />
+              <option name="code" value="201" />
+              <option name="connectionEstablishingTime" value="3" />
+              <option name="contentType" value="application/json" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Length" />
+                    <option name="value" value="22" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Server" />
+                    <option name="value" value="Werkzeug/2.0.3 Python/3.6.15" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Tue, 18 Feb 2025 16:50:29 GMT" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="9346f232-09fd-4b0f-a0bc-22817d9c740d" />
+              <option name="message" value="Created" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="{&#10;  &quot;estou&quot;: &quot;aqui&quot;&#10;}&#10;" />
+              <option name="size" value="22" />
+              <option name="time" value="17" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="3f8ec63c-6395-4d60-bada-a50ff05e5841" />
+        </requestHistoryState>
+      </list>
+    </option>
+  </component>
+</project>

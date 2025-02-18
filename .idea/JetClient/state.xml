@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JetClientState">
+    <option name="folders">
+      <list>
+        <folderState>
+          <option name="environmentGroups">
+            <list>
+              <environmentGroupState>
+                <option name="environments">
+                  <list>
+                    <environmentState>
+                      <option name="name" value="local" />
+                    </environmentState>
+                  </list>
+                </option>
+                <option name="name" value="Default" />
+              </environmentGroupState>
+            </list>
+          </option>
+          <option name="folders">
+            <list>
+              <folderState>
+                <option name="id" value="96a25416-b24d-415a-aae5-8bd48eee5d53" />
+                <option name="name" value="Events" />
+                <option name="requests">
+                  <list>
+                    <requestState>
+                      <option name="id" value="a84a33a7-db21-43e8-84fa-32e76b29eab3" />
+                      <option name="method" value="POST" />
+                      <option name="name" value="Create" />
+                      <option name="sortWeight" value="1000000" />
+                      <option name="url" value="{{server}}/event" />
+                    </requestState>
+                  </list>
+                </option>
+                <option name="sortWeight" value="1000000" />
+              </folderState>
+            </list>
+          </option>
+          <option name="id" value="3f8ec63c-6395-4d60-bada-a50ff05e5841" />
+          <option name="name" value="Project" />
+          <option name="selectedEnvironmentIds">
+            <map>
+              <entry key="default" value="local" />
+            </map>
+          </option>
+          <option name="syncProperties">
+            <synchronizationPropertiesState>
+              <option name="autoSync" value="true" />
+              <option name="folderPath" value="$PROJECT_DIR$/.jetclient" />
+            </synchronizationPropertiesState>
+          </option>
+        </folderState>
+      </list>
+    </option>
+    <option name="id" value="b48c629e-2286-43ec-81a7-231b61a8245b" />
+    <option name="version" value="6" />
+  </component>
+</project>
